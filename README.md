@@ -24,6 +24,10 @@ The implementation allows you to segment images using both techniques and compar
 
 Install all requirements using:
 ```
+git clone https://github.com/mitesh-kr/Image-Segmentation-K-means-vs.-Ratio-Cut-Clustering.git
+
+cd Image-Segmentation-K-means-vs.-Ratio-Cut-Clustering
+
 pip install -r requirements.txt
 ```
 
