@@ -6,6 +6,8 @@ This repository implements and compares two image segmentation techniques:
 
 The implementation allows you to segment images using both techniques and compare their performance visually.
 
+## [Google Colab Link](https://colab.research.google.com/drive/16aCxQ7eOQqOPkeECNL1YTrWd2alhnBNt?usp=sharing)
+
 ## Features
 
 - Image segmentation using K-means clustering
