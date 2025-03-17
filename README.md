@@ -14,13 +14,23 @@ The implementation allows you to segment images using both techniques and compar
 - Modular code design for easy use with different images
 - Visualization of segmentation results
 
-## Requirements
 
-- Python 3.6+
-- NumPy
-- OpenCV
-- Matplotlib
-- scikit-learn
+## Project Structure
+```
+image-segmentation-comparison/
+├── image_segmentation.py   # Main implementation of clustering algorithms
+├── download_images.py      # Helper script to download test images
+├── requirements.txt        # Python dependencies
+├── .gitignore              # Git ignore file
+├── README.md               # This documentation file
+├── images/                 # Directory for input images (created at runtime)
+└── output/                 # Directory for segmentation results (created at runtime)
+```
+
+
+
+
+## Installation
 
 Install all requirements using:
 ```
